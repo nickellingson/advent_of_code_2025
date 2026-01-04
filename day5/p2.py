@@ -1,4 +1,3 @@
-
 def read_file(path):
     result = 0
     global_list = []
